@@ -1,0 +1,63 @@
+.title1{
+	border: blue 5px solid;
+    text-align:center;
+    font-size:30px;
+    width:1000px;
+}
+body{
+	background-color:#5cb8d1;
+    font-family: 'Roboto', sans-serif;
+}
+.face{
+	width:1000px;
+    border: blue 5px solid;
+    
+}
+.thep{
+	width: 300px;
+     border: blue 5px solid;
+    padding:60px 0px;
+}
+.container{
+	display:flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding:10px;
+    position:relative;
+    left:150px;
+}
+.asdasdsad{
+    width: 70%;
+}
+.abc{
+    border: blue 5px solid;
+    padding:10px;
+    width:40px;
+    text-align:center;
+}
+.def{
+    border: blue 5px solid;
+    text-align:center;
+    padding:12px 20px;
+}
+.xyz{
+    border: blue 5px solid;
+    width:70px;
+    text-align:center;
+}
+.thesecondp{
+	width: 300px;
+     border: blue 5px solid;
+    display:flex;
+    padding:60px 0px;
+}
+.muskymoney{
+width: 340px;
+     border: blue 5px solid;
+    display:flex;
+    padding:60px 0px;
+}
+.containerrrrr{
+	display:flex;
+    justify-content: space-around;
+}
